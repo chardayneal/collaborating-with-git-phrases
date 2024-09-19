@@ -3,3 +3,6 @@ def greet():
 
 def chat():
     print("How are you doing?")
+
+def farewell():
+    print("Goodbye, World!")
